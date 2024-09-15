@@ -34,6 +34,7 @@ Frontend Developer
 <img src="https://img.shields.io/badge/-JavaScript-35495E?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" />
 <img src="https://img.shields.io/badge/-HTML5-35495E?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </p>
 

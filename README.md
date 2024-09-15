@@ -33,7 +33,7 @@ Frontend Developer
 <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" />
 <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=VUE&logoColor=E34F26">
+<img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=E34F26">
 
 </p>
 

@@ -24,15 +24,15 @@ Frontend Developer
 
 ### 🛠️ Languages and Tools :
 <p align="left">
-<img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">	
-<img src="https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios&logoColor=4EAA25">
-<img src="https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass&logoColor=F05032">
-<img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" />
-<img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/React-35495E?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Redux-35495E?style=for-the-badge&logo=redux&logoColor=white">	
+<img src="https://img.shields.io/badge/-Axios-35495E?style=for-the-badge&logo=axios&logoColor=4EAA25">
+<img src="https://img.shields.io/badge/React_Router-35495E?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/-SASS/SCSS-35495E?style=for-the-badge&logo=sass&logoColor=F05032">
+<img src="https://img.shields.io/badge/-CSS3-35495E?style=for-the-badge&logo=CSS3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/-JavaScript-35495E?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" />
+<img src="https://img.shields.io/badge/-HTML5-35495E?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
 </p>

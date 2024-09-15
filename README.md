@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/вконтакте-090909.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
 	</a>
    	<a href="https://www.instagram.com/romanzole.vtb/">
-		<img src="https://icons8.ru/icon/32323/instagram" alt="instagram" />
+		<img src="https://img.shields.io/badge/вконтакте-090909.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="instagram" />
 	</a>
 </div>
 

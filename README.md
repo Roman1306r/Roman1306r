@@ -21,6 +21,9 @@
 Frontend Developer
 
 ---
+<div id="stats" align="center">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman1306r&theme=blue-green">
+</div>
 
 ### 🔧 Languages and Tools :
 <p align="left">
@@ -55,9 +58,7 @@ Frontend Developer
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
 
-<div id="stats" align="center">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman1306r&theme=blue-green">
-</div>
+
 
 
 

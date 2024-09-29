@@ -54,10 +54,12 @@ Frontend Developer
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
+---
 ###
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman1306r&theme=blue-green">
 </p>
+---
 ###
 
 

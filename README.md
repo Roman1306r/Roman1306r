@@ -18,7 +18,8 @@
 ---
 ### 💪 About me :
 
-Frontend Developer
+
+I write both frontend and backend projects. I have a higher technical education and graduated from PSU in 2022. At the moment I am looking for a job. Ready for relocation
 
 ---
 <div id="stats" align="center">
